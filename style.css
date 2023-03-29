@@ -1,0 +1,31 @@
+h1{
+    color: green;
+    font-family: "Times New Roman";
+    text-align: center;
+}
+h2{
+    color: red;
+    font-family: "Arial";
+    text-align: center;
+}
+p{
+    color: blue;
+    text-align: center;
+}
+a{
+    font-family: "Helvetica";
+    color: blueviolet;
+    font-size: 36px;
+}
+.wiersze{
+    background-color: yellow;
+}
+a:hover{
+    background-color: red;
+}
+:visited{
+    background-color: green;
+}
+a:active{
+    background-color: blue;
+}
